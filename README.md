@@ -7,5 +7,5 @@ Nigtbot command - https://nightbot.tv/ |
 !card : $(urlfetch https://raw.githubusercontent.com/azeonwy/dominioncardstext/main/$(eval var1=`$(querystring)`;var2=var1.toUpperCase().toLowerCase();var2))
 
 Streamlabs Cloudbot command - https://streamlabs.com/dashboard#/cloudbot/commands/custom | 
-- works for lowercase only, suggestions appreciated - 
+works for lowercase only, suggestions appreciated - 
 !card : {readapi.https://raw.githubusercontent.com/azeonwy/dominioncardstext/main/{1}}
