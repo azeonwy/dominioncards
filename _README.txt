@@ -1,4 +1,4 @@
-This is a repository of Dominion card text (NOT UP TO DATE info was from https://docs.google.com/spreadsheets/d/1u52jHe1-JN6rJGwHqW3xhhaQblPOtPeC0TLShrCloik/edit?usp=sharing)
+This is a repository of Dominion cards text scraped from http://wiki.dominionstrategy.com/index.php/List_of_cards
 To be used for Twitch command that pulls card text into chat.
 
 Nigtbot command - https://nightbot.tv/
