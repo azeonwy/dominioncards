@@ -14,7 +14,4 @@ works for lowercase only, suggestions appreciated<br>
 - Connect Nightbot or Streamlabs Cloudbot to your Twitch channel.
 - Nightbot or Streamlabs Cloudbot might need to be modded.
 - Make a new custom !card command as per above.
-- Type in chat
-!card sentry
-!card throne_room
-!card will-o'-wisp
+- Type in Twitch chat _!card sentry_ OR _!card throne_room_ OR _!card will-o'-wisp_.
