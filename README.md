@@ -12,7 +12,8 @@ works for lowercase only, suggestions appreciated<br>
 
 **Usage**:
 - Connect Nightbot or Streamlabs Cloudbot to your Twitch channel.
-- Make a new custom command as per above
+- Nightbot or Streamlabs Cloudbot might need to be modded.
+- Make a new custom !card command as per above.
 - Type in chat
 !card sentry
 !card throne_room
