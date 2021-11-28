@@ -7,7 +7,7 @@ This is a repository of Dominion cards text scraped from http://wiki.dominionstr
 !card : ```$(urlfetch https://raw.githubusercontent.com/azeonwy/dominioncardstext/main/$(eval var1=`$(querystring)`;var2=var1.toUpperCase().toLowerCase();var2))```
 
 **Streamlabs Cloudbot** custom command - https://streamlabs.com/dashboard#/cloudbot/commands/custom <br>
-works for lowercase only, suggestions appreciated<br>
+works for lowercase only, improvement suggestions appreciated<br>
 !card : ```{readapi.https://raw.githubusercontent.com/azeonwy/dominioncardstext/main/{1}}```
 
 **Usage**:
