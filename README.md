@@ -12,5 +12,5 @@ works for lowercase only, suggestions appreciated<br>
 
 **Usage**:
 - Connect Nightbot or Streamlabs Cloudbot to your Twitch channel.
-- Make a new custom !card command as per above.
+- Make a new custom !card command by copy pasting the code above.
 - Type in Twitch chat _!card sentry_ OR _!card throne_room_ OR _!card will-o'-wisp_.
