@@ -9,3 +9,11 @@ This is a repository of Dominion cards text scraped from http://wiki.dominionstr
 **Streamlabs** Cloudbot command - https://streamlabs.com/dashboard#/cloudbot/commands/custom <br>
 works for lowercase only, suggestions appreciated<br>
 !card : ```{readapi.https://raw.githubusercontent.com/azeonwy/dominioncardstext/main/{1}}```
+
+**Usage**:
+- Connect Nightbot or Streamlabs Cloudbot to your Twitch channel.
+- Make a new custom command as per above
+- Type in chat
+!card sentry
+!card throne_room
+!card will-o'-wisp
