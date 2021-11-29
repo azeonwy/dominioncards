@@ -10,6 +10,10 @@ This is a repository of Dominion cards text scraped from http://wiki.dominionstr
 works for lowercase only, improvement suggestions appreciated<br>
 !card : ```{readapi.https://raw.githubusercontent.com/azeonwy/dominioncardstext/main/{1}}```
 
+**StreamElements** custom command - https://streamelements.com/ <br>
+works for lowercase only, improvement suggestions appreciated<br>
+!card : ```$(urlfetch https://raw.githubusercontent.com/azeonwy/dominioncardstext/main/${1})```
+
 **Usage**:
 - Connect Nightbot or Streamlabs Cloudbot to your Twitch channel.
 - Make a new custom !card command by copy pasting the code above.
